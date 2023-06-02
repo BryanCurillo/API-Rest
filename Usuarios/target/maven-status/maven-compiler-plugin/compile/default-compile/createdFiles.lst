@@ -1,0 +1,7 @@
+com\tendencias\m5a\Usuarios\UsuariosApplication.class
+com\tendencias\m5a\Usuarios\repository\UsuarioRepository.class
+com\tendencias\m5a\Usuarios\model\Usuario.class
+com\tendencias\m5a\Usuarios\controller\UsuarioController.class
+com\tendencias\m5a\Usuarios\service\GenericService.class
+com\tendencias\m5a\Usuarios\service\GenericServiceImpl.class
+com\tendencias\m5a\Usuarios\service\UsuarioServiceImpl.class
